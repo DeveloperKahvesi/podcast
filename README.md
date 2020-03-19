@@ -12,6 +12,8 @@ Bu repositoryde Developer Kahvesi Podcast bölümleri linkleri ve bölümler iç
 [Spotify](https://open.spotify.com/show/71c5N5lrYCCJpSFEBunbAu) |
 [Podbean](https://munmis.podbean.com/)
 
+[Developer Kahvesi Bio](https://developerkahvesi.github.io/bio/)
+
 
 # Bölümler
 
