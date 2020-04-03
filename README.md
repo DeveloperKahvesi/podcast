@@ -17,6 +17,8 @@ Bu repositoryde Developer Kahvesi Podcast bölümleri linkleri ve bölümler iç
 
 # Bölümler
 
+**Bölüm - 033** | [Kerem Odabaşı - Hayat Bir Oyun](/episodes/ep033.md) - 18 Mart 2020 | [Dinle](https://bit.ly/2R3w4o3)
+
 **Bölüm - 032** | [Mevlüt Dinç - Hayat Bir Oyun](/episodes/ep032.md) - 18 Mart 2020 | [Dinle](https://bit.ly/2WnrlB3)
 
 **Bölüm - 031** | [Web Assmebly (Wasm) ve Blazor](/episodes/ep031.md) - 16 Mart 2020 | [Dinle](https://munmis.podbean.com/e/webassembly-wasm-ve-blazor/)
